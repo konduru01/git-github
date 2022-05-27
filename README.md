@@ -1,2 +1,2 @@
 # git-github
-Kumar Test
+This is for tutorial purpose.
